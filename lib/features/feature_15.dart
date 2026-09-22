@@ -1,0 +1,1 @@
+﻿const Duration kAnimDuration = Duration(milliseconds: 300);
