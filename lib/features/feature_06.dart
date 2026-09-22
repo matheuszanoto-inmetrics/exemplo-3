@@ -1,0 +1,1 @@
+﻿const double kCardElevation = 2.0;
