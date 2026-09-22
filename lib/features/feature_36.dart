@@ -1,0 +1,1 @@
+﻿void logDebug(String msg) { assert(() { print('[DEBUG] \'); return true; }()); }
