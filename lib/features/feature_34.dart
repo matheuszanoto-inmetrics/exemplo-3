@@ -1,0 +1,1 @@
+﻿bool isBlank(String? s) => s == null || s.trim().isEmpty;
