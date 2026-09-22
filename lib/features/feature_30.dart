@@ -1,0 +1,1 @@
+﻿const double kListPadding = 4.0;
