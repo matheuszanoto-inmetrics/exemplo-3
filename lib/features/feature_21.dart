@@ -1,0 +1,1 @@
+﻿const int kMaxNotes = 500;
