@@ -1,0 +1,1 @@
+﻿enum NoteStatus { idle, loading, success, error }
