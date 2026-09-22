@@ -1,0 +1,1 @@
+﻿const String kEmptyMessage = 'Nenhuma nota ainda.';
