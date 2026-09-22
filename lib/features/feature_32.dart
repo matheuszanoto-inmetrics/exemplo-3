@@ -1,0 +1,1 @@
+﻿String? validateNote(String? v) => (v == null || v.trim().isEmpty) ? 'Campo obrigatorio' : null;
