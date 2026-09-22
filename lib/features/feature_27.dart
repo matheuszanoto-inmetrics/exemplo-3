@@ -1,0 +1,1 @@
+﻿const double kButtonHeight = 48.0;
