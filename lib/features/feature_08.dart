@@ -1,0 +1,1 @@
+﻿const double kFontSize = 14.0;
